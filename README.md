@@ -7,7 +7,7 @@ A simple Python program to calculate motor efficiency and power loss based on in
 
 ## Features
 - Calculates motor efficiency percentage
-- Computes power loss
+- Computes power loss 
 - Handles invalid input values
 - Core electrical engineering concept
 
@@ -21,4 +21,4 @@ A simple Python program to calculate motor efficiency and power loss based on in
    python motor_efficiency.py
 
 ---
-Created by Swati | Electrical Engineering 
+Created by Swati | Electrical Engineering || EE
